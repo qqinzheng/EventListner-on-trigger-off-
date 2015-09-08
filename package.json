@@ -1,0 +1,14 @@
+{
+  "name": "sss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ontrigger.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.23"
+  }
+}
